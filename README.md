@@ -7,7 +7,7 @@ Simple website to display top 10 news using cbc-news API.
 - Technology Used
 
 ## Funtionalities
-It displays the top 10 news using BBC-News Api.
+It displays the top 10 news using ###CBC-News Api.
 
 It fetches the data using API.
 
