@@ -7,7 +7,7 @@ Simple website to display top 10 news using cbc-news API.
 - Technology Used
 
 ## Funtionalities
-Click on the button of the given bus route. It will dispaly the information about the upcoming bus on that route.
+It displays the top 10 news using BBC-News Api.
 
 It fetches the data using API.
 
