@@ -15,5 +15,6 @@ It fetches the data using API.
 
 ## Technology Used
 - JavaScript
+- Bootstrap
 - CSS
 - HTML
